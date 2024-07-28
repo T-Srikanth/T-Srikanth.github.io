@@ -1,2 +1,2 @@
 # work_websites
-parent repo for all website projects
+Parent repo for ALL website projects
