@@ -1,2 +1,2 @@
-# work_websites
-Parent repo for ALL website projects
+# Portfolio
+Initial portfolio site hosted on github pages
